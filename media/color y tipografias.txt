@@ -1,0 +1,8 @@
+Códigos de color:
+#6b0f28
+R 170
+G 15
+B 40
+
+tipografía: 
+EB Garamond
