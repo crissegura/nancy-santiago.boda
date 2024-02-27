@@ -16,7 +16,7 @@ header{
     background-repeat: no-repeat;
 }
 .inicio{
-    min-height: 82vh;
+    min-height: 83vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
