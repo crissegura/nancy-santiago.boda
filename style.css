@@ -134,6 +134,23 @@ footer{
     min-height: 18vh ;
 }
 
+@media (max-width: 435px) {
+    .imgCarousel{
+        max-height: 30vh;
+    }
+}
+@media (min-width: 900px) {
+    #contenedorCarrusel{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .imgCarousel{
+        max-width: 60%;
+        margin: 0 20%;
+    }
+}
+
+
 /* REGALOS */
 
 .footerRegalos{
